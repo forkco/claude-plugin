@@ -1,0 +1,8 @@
+{
+  "name": "fork",
+  "description": "Develop Fork.me apps — sync files, auto-push changes, manage apps",
+  "version": "0.1.0",
+  "author": { "name": "Fork.me" },
+  "homepage": "https://fork.me/cli",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "forkme": {
+      "type": "http",
+      "url": "https://fork.cx/mcp"
+    }
+  }
+}

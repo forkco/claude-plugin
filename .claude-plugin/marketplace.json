@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "fork": {
+      "name": "fork",
+      "description": "Develop Fork.me apps — sync files, auto-push changes, manage apps",
+      "version": "0.1.0",
+      "source": "."
+    }
+  }
+}
