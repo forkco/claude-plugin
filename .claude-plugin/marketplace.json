@@ -13,7 +13,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/forkco/claude-plugin.git",
-        "sha": "96533538cdcbe4319427f6d5e77e5df4bddcbd97"
+        "sha": "4704e8b7d752d07cd984c699cb5d4dd6673bd6aa"
       },
       "category": "development",
       "homepage": "https://fork.me/cli"
