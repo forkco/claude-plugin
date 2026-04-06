@@ -1,11 +1,18 @@
 {
-  "version": "1.0.0",
-  "plugins": {
-    "fork": {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "forkco-claude-plugin",
+  "description": "Fork.me plugins for Claude Code",
+  "owner": {
+    "name": "Fork.me",
+    "email": "hello@fork.me"
+  },
+  "plugins": [
+    {
       "name": "fork",
       "description": "Develop Fork.me apps — sync files, auto-push changes, manage apps",
-      "version": "0.1.0",
-      "source": "."
+      "source": ".",
+      "category": "development",
+      "homepage": "https://fork.me/cli"
     }
-  }
+  ]
 }
