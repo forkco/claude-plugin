@@ -12,8 +12,7 @@
       "description": "Develop Fork.me apps — sync files, auto-push changes, manage apps",
       "source": {
         "source": "url",
-        "url": "https://github.com/forkco/claude-plugin.git",
-        "sha": "cbbd318e30cf450a7a298751bdccd4770472119a"
+        "url": "https://github.com/forkco/claude-plugin.git"
       },
       "category": "development",
       "homepage": "https://fork.me/cli"
